@@ -8,3 +8,4 @@ Android app (using Java) which allows users to search for different stock symbol
 
 <b>Note:</b> Complete app description provided in the repo. 
 
+[Checkout the web version of the application](https://github.com/pia-nyk/Stock-Trading-Web-App)
